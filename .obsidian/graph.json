@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Java Script",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "PHP",
+      "color": {
+        "a": 1,
+        "rgb": 9856201
+      }
+    },
+    {
+      "query": "Arduino",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "Бизнес",
+      "color": {
+        "a": 1,
+        "rgb": 2525057
+      }
+    },
+    {
+      "query": "Книги",
+      "color": {
+        "a": 1,
+        "rgb": 15064597
+      }
+    },
+    {
+      "query": "Языки программирования",
+      "color": {
+        "a": 1,
+        "rgb": 7807563
+      }
+    },
+    {
+      "query": "Фреймворки PHP",
+      "color": {
+        "a": 1,
+        "rgb": 8229490
+      }
+    },
+    {
+      "query": "Дизайн",
+      "color": {
+        "a": 1,
+        "rgb": 14385152
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.63125,
+  "lineSizeMultiplier": 0.661458333333333,
+  "collapse-forces": false,
+  "centerStrength": 0.376433057521683,
+  "repelStrength": 20,
+  "linkStrength": 0.363672614893829,
+  "linkDistance": 360,
+  "scale": 0.015355906606694248,
+  "close": false
+}

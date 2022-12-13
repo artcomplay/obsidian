@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "35036cb373ceecd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "277d29b2da8d92e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14cd9f77da7a848b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Реклама/Рекламное изделие.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a85e91cced1dedea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9755725a1ff5487a",
+            "type": "leaf",
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eec8038cd1b80f72",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd1b5779cbedcff1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bb041982b8421c3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa31f27796297337",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9f7ec841137ccdb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "068854f6b55f8941",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2a15f2f71afe097",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a2ae2e3a36b5fcf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Реклама/Рекламное изделие.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18bb26cfee34b93d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7d4b6149f70ac23b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Реклама/Рекламное изделие.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c7c3bad813f38ca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Реклама/Рекламное изделие.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "14cd9f77da7a848b",
+  "lastOpenFiles": [
+    "Реклама/Мотивация работников.md",
+    "Реклама/Рекламное изделие.md",
+    "Дизайн/Blender/Модификаторы.md",
+    "Pasted image 20221211124331.png",
+    "Pasted image 20221211012412.jpg",
+    "Программирование/Языки программирования/Python/Фреймворки/Django/Get started.md",
+    "Программирование/Языки программирования/Python/Фреймворки/Django/Django.md",
+    "Без названия.md",
+    "Программирование/Языки программирования/Python/Python.md",
+    "Программирование/Языки программирования/PHP/Composer.md"
+  ]
+}
